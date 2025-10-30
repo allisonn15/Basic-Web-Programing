@@ -1,0 +1,23 @@
+body{
+    background-color: mistyrose;
+    color: beige;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.box{
+    background-color: lightblue;
+    padding:30px;
+    margin: 120px;
+}
+
+.box p{
+    color: antiquewhite;
+}
+
+h1:hover{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: paleturquoise;
+}
